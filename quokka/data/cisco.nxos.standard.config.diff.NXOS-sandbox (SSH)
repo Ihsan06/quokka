@@ -1,0 +1,2 @@
+interface Ethernet1/11
+  description Configured with NX-API REST
